@@ -91,7 +91,7 @@ const Form = () => {
 <footer className="info">
 <p>Click to edit a todo</p>
 <p>Created by <a href="https://github.com/ahmetucar1">Ahmet</a></p>
-<p>Part of <a href="https://github.com/ahmetucar1">TodoMVC</a></p>
+<p>Part of <a href="https://todo-app-react-henna.vercel.app/">Live</a></p>
 </footer> 
 </>
   )
